@@ -1,0 +1,10 @@
+web structure:
+
+ 
+
+about ( on the home page)
+product (emu sentment app)
+resarch
+    reaserch 1 
+    research 2
+contact
